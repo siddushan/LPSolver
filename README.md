@@ -1,2 +1,2 @@
 # LPSolver
-project for concurrent scientific programming. basic LP solver, nothing fancy
+project for concurrent scientific programming. basic LP solver demo with scipy, nothing fancy
